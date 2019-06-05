@@ -31,7 +31,9 @@
 # Practice
 
 ### E1
+'''
 git init --bare share.git
+'''
 ### E2
 git clone url
 ### E3
