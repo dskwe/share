@@ -35,21 +35,35 @@
 git init --bare share.git
 ```
 ### E2
+```
 git clone url
+```
 ### E3
+```
 git checkout -b test
+```
 ### E4
+```
 vim .gitignore
 git add
 git commit -m'First commit'
 git push origin test:test
+```
 ### E5
+```
 git reset
+```
 ### E6
+```
 git diff
 git merge
+```
 ### E7
+```
 git blame
+```
 ### E8
+```
 git pull
 git push
+```
