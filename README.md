@@ -1,4 +1,4 @@
-#git commands
+# git commands
 
 ### Frequent use for everyone:
 * add        加入文件到缓冲区
@@ -28,7 +28,7 @@
 * tag        创建，删除，显示或者验证 标签
 
 
-#Practice
+# Practice
 
 ### E1
 git init --bare share.git
