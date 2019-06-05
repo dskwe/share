@@ -7,7 +7,12 @@ Key = sha1(file_header + file_content)
 
 Value = zlib(file_content)
 ```
-
+* benefit vs svn(or other traditional cvs)
+```
+1.Distribution
+2.Branch
+```
+* Author: Linus(version 1 two week, 2005)
 # Git commands
 
 ### Frequent use for everyone:
