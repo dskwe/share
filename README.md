@@ -1,4 +1,14 @@
-# git commands
+# What's Git
+* Version Control System， VCS
+* content-addressable
+* BLOB Tree commit
+```
+Key = sha1(file_header + file_content)
+
+Value = zlib(file_content)
+```
+
+# Git commands
 
 ### Frequent use for everyone:
 * add        加入文件到缓冲区
